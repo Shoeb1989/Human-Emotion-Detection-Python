@@ -1,4 +1,4 @@
-Using Vs code & Google Colab
+Using Vs code & jupyter notebook
 
 --Vs code Used for Detect the Emotion Using Live cammera.
 
@@ -11,7 +11,7 @@ libraries in python:
   
   pip install matplotlib
 
--- Google Colab Used for 
+-- jupyter notebook Used for 
   Model Train
   
   Data Generate
